@@ -6,7 +6,7 @@ const DashboardPage = () => {
     <div className="dashboardPage">
      <div className="texts">
       <div className="logo">
-        <img src="/logo2.png" alt="" />
+        <img src="/logo3.png" alt="" />
         <h1>CONVERSE AI</h1>
       </div>
       <div className="options">
